@@ -1,0 +1,26 @@
+body{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#card{
+    background-color: aqua;
+    border-radius: 67px;
+    margin: 25px;
+    padding: 25px;
+    border-width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+h1{
+   color: crimson;
+
+
+}
+
